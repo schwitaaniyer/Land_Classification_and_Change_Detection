@@ -1,2 +1,5 @@
-# Land_Classification_and_Change_Detection
-Land Classification and Change Detection using Python
+# Land_Classification_and_Change_Detection_using_Python
+
+In this Project, we will be creating a Land Classification and Change Detection Model using Python. Geemap and Google Earth Engine are the two main python libraries that we will be using to create the model. We will be using supervised classification techniques for land classification and time series for change detection. This project helps us in tracking the environmental and land changes happening around us. We will also be comparing our classification map to a reference map and we will also be generating a confusion matrix. We will be classifying the Land into 9 main categories: Water, Trees, Grass, Flooded Vegetation, Crops, Shrub/Scrub, Built, Bare and Snow/Ice. This model helps us to monitor several land and environmental changes such as Urbanization, Deforestation, Vegetation Growth, Snow Deposits, etc. And you can monitor the change on a yearly basis. This model works on a global scale and has 10m resolution. We will be using Sentinel-2 Multi-Spectral Instrument, Level-2A Satellite Data for Primary Classification. And we will be using Dynamic World Land Cover Map for Reference.
+
+This Project was done during my Internship in Indian Institute of Technology - Indore (IIT Indore) under Dr. Unmesh Govind Khati, Assistant Professor, Department of Astronomy, Astrophysics and Space Engineering (DAASE), IIT Indore.
